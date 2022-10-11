@@ -1,0 +1,45 @@
+CHANGES:
+
+12/17/2017:
+   - retrieve StarMath's formula,
+   - retrieve the chart as graphic,
+   - retrieve some fields in sda/sdc/sdp text-boxes,
+   - .sdw: retrieve more attachment.
+   
+10/30/2017:
+   - Require C++11 for build.
+   - correct a problem detected with fuzzing...
+
+07/15/2017:
+   - correct many problems detected with fuzzing...
+   
+02/20/2017:
+   - files created by StarImpress are converted as presentation,
+   - .sdw: retrieve table's formattings and some outline's level,
+   - graphics: retrieve more embedded pictures and the text-boxes'
+     rotations
+     
+08/04/2016:
+   - begin to convert .sdw files ; but the mark, the outline, the tables, the embedded
+     shapes/pictures/... are not correctly retrieved, 
+   - .sdc files : try to recover some embedded shapes/pictures/...,
+   - all : try to retrieve "all" formatting in small text zones, ...
+   - begin to retrieve some list, must be improved...
+
+02/12/2016:
+   - begin to convert .sda/.sdg files, retrieve the basic shapes and many graphics attributes ;
+     but there remains some problem with default attribute and the formatting in text zone is
+     lost
+
+09/30/2015: begin to reconstruct the document meta-data
+
+09/29/2015: begin to reconstruct the "basic" content of sdc files, ie.
+   - the sheets' names
+   - the value, text or formula(if they do not contain any Index) which appear in sheet's cells
+   - the column and row widths
+   
+09/20/2015: begin to parsing the different files
+
+07/20/2015: creation
+   - libstaroffice created taking inspiration from libwps and libmwaw.
+

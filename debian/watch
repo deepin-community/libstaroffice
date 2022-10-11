@@ -1,0 +1,3 @@
+version=2
+opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.gz/libstaroffice-$1\.tar\.gz/ \
+  https://github.com/fosnola/libstaroffice/tags .*/v?(\d\S*)\.tar\.gz

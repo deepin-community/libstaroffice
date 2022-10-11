@@ -1,0 +1,10 @@
+.deps
+.libs
+*.lo
+*.la
+*.o
+Makefile
+Makefile.in
+sd2raw
+*.rc
+*.exe

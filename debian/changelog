@@ -1,0 +1,63 @@
+libstaroffice (0.0.7-1) unstable; urgency=medium
+
+  * New upstream version 0.0.7
+
+ -- Rene Engelhard <rene@debian.org>  Wed, 15 Apr 2020 12:48:21 +0200
+
+libstaroffice (0.0.6-1) unstable; urgency=medium
+
+  * New upstream version 0.0.6
+
+ -- Rene Engelhard <rene@debian.org>  Thu, 26 Apr 2018 23:01:31 +0200
+
+libstaroffice (0.0.5-1) unstable; urgency=medium
+
+  * New upstream version 0.0.5
+
+ -- Rene Engelhard <rene@debian.org>  Wed, 08 Nov 2017 17:52:38 +0000
+
+libstaroffice (0.0.4-1) unstable; urgency=medium
+
+  * New upstream version 0.0.4
+
+  * fix long descriptions (closes: #864503)
+
+ -- Rene Engelhard <rene@debian.org>  Thu, 20 Jul 2017 19:32:57 +0200
+
+libstaroffice (0.0.3-3) unstable; urgency=medium
+
+  * backport upstream patch to fix CVE-2017-9432 (closes: #864207)
+
+ -- Rene Engelhard <rene@frodo.fritz.box>  Tue, 20 Jun 2017 20:49:39 +0200
+
+libstaroffice (0.0.3-2) unstable; urgency=medium
+
+  * upload to unstable
+
+ -- Rene Engelhard <rene@debian.org>  Sat, 27 May 2017 10:15:37 +0200
+
+libstaroffice (0.0.3-1) experimental; urgency=medium
+
+  * New upstream version 0.0.3
+
+ -- Rene Engelhard <rene@debian.org>  Wed, 22 Feb 2017 13:21:15 +0100
+
+libstaroffice (0.0.2-3) experimental; urgency=medium
+
+  * [96e1f58] add missing librevenge-dev to libstaroffice-devs Depends:
+
+ -- Rene Engelhard <rene@debian.org>  Mon, 26 Sep 2016 22:58:21 +0200
+
+libstaroffice (0.0.2-2) experimental; urgency=medium
+
+  * [b2ac9f6] move Maintainer: to Debian LibreOffice Maintainers
+  * [bd2a4ad] multiarchify
+  * [1bbe32f] add --parallel
+
+ -- Rene Engelhard <rene@debian.org>  Wed, 07 Sep 2016 23:06:20 +0200
+
+libstaroffice (0.0.2-1) experimental; urgency=low
+
+  * Initial release
+
+ -- Rene Engelhard <rene@debian.org>  Sat, 20 Aug 2016 18:31:10 +0200

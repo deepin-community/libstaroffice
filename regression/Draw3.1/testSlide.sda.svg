@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  >
+<defs>
+  <linearGradient id="grad1" >
+    <stop offset="0%" stop-color="#00ffff" stop-opacity="0.9000" />
+    <stop offset="100%" stop-color="#0000ff" stop-opacity="1.0000" />
+  </linearGradient>
+  <linearGradient xlink:href="#grad1" id="grad2" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(-0 .5 .5)" gradientUnits="objectBoundingBox" >
+  </linearGradient>
+</defs>
+<rect x="0.0000" y="0.0000" width="595.2756" height="841.8898" style=""/>
+<defs>
+  <linearGradient id="grad3" >
+    <stop offset="0%" stop-color="#000080" stop-opacity="1.0000" />
+    <stop offset="50%" stop-color="#ffffff" stop-opacity="0.9000" />
+    <stop offset="100%" stop-color="#000080" stop-opacity="1.0000" />
+  </linearGradient>
+</defs>
+<polygon points="9.9780 0.0000, 30.0189 0.0000, 30.0189 661.4362, 9.9780 741.6000, 9.9780 0.0000"
+style=""/>
+<polygon points="30.0189 0.0000, 50.0598 0.0000, 50.0598 561.2598, 30.0189 641.3953, 30.0189 0.0000"
+style=""/>
+<defs>
+  <linearGradient id="grad4" >
+    <stop offset="0%" stop-color="#ff0000" stop-opacity="1.0000" />
+    <stop offset="50%" stop-color="#ffffff" stop-opacity="1.0000" />
+    <stop offset="100%" stop-color="#ff0000" stop-opacity="1.0000" />
+  </linearGradient>
+</defs>
+<polygon points="24.6614 0.0000, 34.6677 0.0000, 34.6677 501.0803, 24.6614 561.2598, 24.6614 0.0000"
+style=""/>
+<defs>
+  <linearGradient id="grad5" >
+    <stop offset="0%" stop-color="#00ffff" stop-opacity="0.9000" />
+    <stop offset="100%" stop-color="#0000ff" stop-opacity="1.0000" />
+  </linearGradient>
+  <linearGradient xlink:href="#grad5" id="grad6" x1="0" y1="0" x2="0" y2="1" gradientTransform="rotate(135 .5 .5)" gradientUnits="objectBoundingBox" >
+  </linearGradient>
+</defs>
+<polygon points="470.9764 821.7921, 591.2220 581.2441, 591.2220 821.7921, 470.9764 821.7921"
+style=""/>
+<text x="61.1717" y="200.4378">
+<tspan font-family="Times" font-weight="normal" font-size="31.9748" fill="#ffffff" >
+Doubleclick to add a title</tspan>
+</text>
+<image x="60.8032" y="220.4504" width="480.6992" height="481.1244" xlink:href="data:image/pct;base64,eggAAEJNNgAAAAAAAAB2AAAAKAAAAEAAAABAAAAAAQAEAAAAAAAACAAAAAAAAAAAAAAQAAAAAAAAAP///wH//wAB/wD/Af8AAAEA//8BAP8AAQAA/wGAgIABwMDAAYCAAAGAAIABgAAAAQCAgAEAgAABAACAAQAAAAGIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIiIiIiIiIiIB3d3d3d3d3d3d3d3d3d3d3d3d3d3d3cIiIiIiIiIiIgHAAD2ZmbwDzMzPwD1VVXwD0RETwAABwiIiIiIiIiIiAcAAPZmZvAPMzM/APVVVfAPRERPAAAHCIiIiIiIiIiIBwAA9mZm8A8zMz8A9VVV8A9ERE8AAAcIiIiIiIiIiIgHAAD2ZmbwDzMzPwD1VVXwD0RETwAABwiIiIiIiIiIiAcAAPZmZvAPMzM/APVVVfAPRERPAAAHCIiIiIiIiIiIBwAA9mZm8A8zMz8A9VVV8A9ERE8AAAcIiIiIiIiIiIgHAAD2ZmbwDzMzPwD1VVXwD0RETwAABwiIiIiIiIiIiAcAAPZmZvAPMzM/APVVVfAPRERPAAAHCIiIiIiIiIiIBwAA9mZm8A8zMz8A9VVV8A9ERE8AAAcIiIiIiIiIiIgHAAD2ZmbwDzMzPwD1VVXwD0RETwAABwiIiIiIiIiIiAcAAPZmZvAPMzM/APVVVfAPRERPAAAHCIiIiIiIiIiIBwAA9mZm8A8zMz8A////8A9ERE8AAAcIiIiIiIiIiIgHAAD2ZmbwDzMzPwAAAAAAD0RETwAABwiIiIiIiIiIiAcAAP////APMzM/AAAAAAAPRERPAAAHCIiIiIiIiIiIBwAAAAAAAA8zMz8AAAAAAA9ERE8AAAcIiIiIiIiIiIgHAAAAAAAADzMzPwAAAAAAD////wAABwiIiIiIiIiIiAcAAAAAAAAPMzM/AAAAAAAAAAAAAAAHCIiIiIiIiIiIBwAAAAAAAA8zMz8AAAAAAAAAAAAAAAcIiIiIiIiIiIgHAAAAAAAAD////wAAAAAAAAAAAAAABwiIiIiIiIiIiAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAHCIiIiIiIiIiIBwAAAAAAAAAAAAAAAAAAAAAAAAAAAAcIiIiIiIiIiIgHAAAAAAAAAAAAAAAAAAAAAAAAAAAABwiIiIiIiIiIiAd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3CIiIiIiIiIiIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiA==" />
+<line x1="80.1354"  y1="260.5323" x2="300.6142"  y2="400.8472"
+style="stroke: #000000; stroke-dasharray: none; fill: none; "/>
+<ellipse cx="267.6472" cy="219.7984" rx="106.2992" ry="63.7795" style="stroke: #000000; stroke-dasharray: none; fill: none; "/>
+<ellipse cx="337.3229" cy="300.1040" rx="21.2598" ry="56.6929" style="stroke: #000000; stroke-dasharray: none; fill: none; "/>
+<ellipse cx="468.3969" cy="290.3244" rx="42.5197" ry="42.5197" style="stroke: #000000; stroke-dasharray: none; fill: none; "/>
+<ellipse cx="286.2142" cy="395.8016" rx="63.7795" ry="42.5197" style="stroke: #000000; stroke-dasharray: none; fill: none; "/>
+<line x1="340.1575"  y1="382.6772" x2="467.7165"  y2="269.2914"
+style="stroke: #000000; stroke-dasharray: none; fill: none; "/>
+<polyline points="113.3858 311.8110, 85.0394 325.9843, 42.5197 396.8504, 70.8661 396.8504, 85.0394 411.0236, 127.5591 411.0236, 141.7323 439.3701, 127.5591 481.8898, 226.7717 481.8898, 269.2914 382.6772, 240.9449 325.9843, 170.0787 368.5039, 141.7323 368.5039, 141.7323 382.6772, 325.9843 481.8898"
+style="stroke: #000000; stroke-dasharray: none; fill: none; "/>
+<polygon points="255.1181 141.7323, 240.9449 184.2520, 198.4252 226.7717, 198.4252 255.1181, 325.9843 184.2520, 255.1181 141.7323"
+style="stroke: #000000; stroke-dasharray: none; fill: none; "/>
+<path d=" 
+M155.9055,538.5827
+C48.3591,539.5748 116.5606,623.9906 170.0787,637.7953
+C358.6110,686.4661 284.6551,436.6488 184.2520,538.5827
+L155.9055,566.9291
+L226.7717,581.1024" 
+style="stroke: #000000; stroke-dasharray: none; fill: none; "/>
+<path d=" 
+M323.7449,594.1984
+C368.0787,717.9307 476.4189,575.4614 394.7811,537.7323
+C344.9764,514.6866 340.0158,599.7827 366.1795,622.6866
+L337.8614,608.4000
+L323.7449,594.1984
+Z" 
+style="stroke: #000000; stroke-dasharray: none; fill: none; "/>
+</svg>
+

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" office:mimetype="application/vnd.oasis.opendocument.graphics" office:version="1.0">
+  <office:meta>
+    <dc:creator>alonso laurent</dc:creator>
+    <dc:date>2016-01-15T09:57:14.00</dc:date>
+    <dc:title>testGraph</dc:title>
+    <meta:creation-date>2016-01-14T13:23:52.00</meta:creation-date>
+    <meta:initial-creator>alonso laurent</meta:initial-creator>
+    <meta:print-date>2016-01-14T13:23:52.00</meta:print-date>
+    <meta:generator>libodfgen/0.1.6</meta:generator>
+  </office:meta>
+  <office:settings>
+    <config:config-item-set config:name="ooo:view-settings">
+      <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+      <config:config-item config:name="VisibleAreaWidth" config:type="int">29700</config:config-item>
+      <config:config-item config:name="VisibleAreaHeight" config:type="int">21000</config:config-item>
+    </config:config-item-set>
+  </office:settings>
+  <office:font-face-decls>
+    <style:font-face style:font-charset="x-symbol" style:name="StarSymbol" svg:font-family="StarSymbol"/>
+  </office:font-face-decls>
+  <office:styles>
+    <draw:fill-image draw:name="Bitmap_0">
+      <office:binary-data>Qk02AAAAAAAAAHYAAAAoAAAAQAAAAEAAAAABAAQAAAAAAAAIAAAAAAAAAAAAABAAAAAAAAAA////Af//AAH/AP8B/wAAAQD//wEA/wABAAD/AYCAgAHAwMABgIAAAYAAgAGAAAABAICAAQCAAAEAAIABAAAAAYiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIiIiIiIiIiIgHd3d3d3d3d3d3d3d3d3d3d3d3d3d3dwiIiIiIiIiIiAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAHCIiIiIiIiIiIBwAAAAAAAAAAAAAAVVVVVVVVVVAAAAcIiIiIiIiIiIgHAAAAAAAAAAAAAAAFVVVVVVVVAAAABwiIiIiIiIiIiAcABmZmZmZmZmAAAAVVVVVVVVUAAAAHCIiIiIiIiIiIBwAGZmZmZmZmYAAAAFVVVVVVUAAAAAcIiIiIiIiIiIgHAAZmZmZmZmZgAAAAVVVVVVVQAAAABwiIiIiIiIiIiAcABmZmZmZmZmAAAAAFVVVVVQAAAAAHCIiIiIiIiIiIBwAGZmZmZmZmYzMzAAVVVVVVAAAAAAcIiIiIiIiIiIgHAAZmZmZmZmMzMzMzAFVVVVAAAAAABwiIiIiIiIiIiAcABmZmZmZmMzMzMzMwVVVVUAAAAAAHCIiIiIiIiIiIBwAGZmZmZmYzMzMzMzAFVVUAAAAAAAcIiIiIiIiIiIgHAAZmZmZmYzMzMzMzMwVVVQAAAAAABwiIiIiIiIiIiAcAAAAAAAADMzMzMzMzAFVQAAAAAAAHCIiIiIiIiIiIBwAAAAAAAAMzMzMzMzMAVVAAAAAAAAcIiIiIiIiIiIgHAAAAAAAAAzMzMzMzMwAFAAAAAAAABwiIiIiIiIiIiAcAAAAAAAAAMzMzMzMwAAUAAAAAAAAHCIiIiIiIiIiIBwAAAAAAAAAzMzMzMzAAAAAAAAAAAAcIiIiIiIiIiIgHAAAAAAAAAAMzMzMzAAAAAAAAAAAABwiIiIiIiIiIiAcAAAAAAAAAAAMzMwAAAAAAAAAAAAAHCIiIiIiIiIiIBwAAAAAAAAAAAAAAAAAAAAAAAAAAAAcIiIiIiIiIiIgHAAAAAAAAAAAAAAAAAAAAAAAAAAAABwiIiIiIiIiIiAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAHCIiIiIiIiIiIB3d3d3d3d3d3d3d3d3d3d3d3d3d3d3cIiIiIiIiIiIgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiI</office:binary-data>
+    </draw:fill-image>
+    <draw:fill-image draw:name="Bitmap_1">
+      <office:binary-data>UDYKMzIgMzIgMjU1CgAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/////wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/////wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/////wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/////wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/////wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/////wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/////wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/////wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/////wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/////wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/////wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/////wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/////wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/////wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/////wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/////wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/////wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/////wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/////wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/////wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/////wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/////wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/w==</office:binary-data>
+    </draw:fill-image>
+    <draw:gradient draw:angle="0" draw:border="0.0000%" draw:cx="50.0000%" draw:cy="50.0000%" draw:end-color="#ffffff" draw:name="Gradient_0" draw:start-color="#000000" draw:style="single"/>
+    <draw:gradient draw:angle="600" draw:border="20.0000%" draw:cx="30.0000%" draw:cy="30.0000%" draw:end-color="#ffff00" draw:name="Gradient_1" draw:start-color="#800000" draw:style="radial" style:parent-style-name="Gradient_0"/>
+    <draw:hatch draw:color="#000000" draw:distance="0.5669pt" draw:name="Hatch_0" draw:rotation="0" draw:style="single"/>
+    <draw:hatch draw:color="#800000" draw:distance="2.2677pt" draw:name="Hatch_1" draw:rotation="450" draw:style="double" style:parent-style-name="Hatch_0"/>
+    <draw:hatch draw:distance="1.4173pt" draw:name="Hatch_2" draw:rotation="0" style:parent-style-name="Hatch_0"/>
+    <draw:hatch draw:distance="14.1732pt" draw:name="Hatch_3" draw:rotation="0" style:parent-style-name="Hatch_0"/>
+    <draw:hatch draw:distance="3.4016pt" draw:name="Hatch_4" draw:rotation="0" style:parent-style-name="Hatch_0"/>
+    <draw:opacity draw:angle="0" draw:border="0.0000%" draw:cx="50.0000%" draw:cy="50.0000%" draw:name="Transparency_0"/>
+    <draw:marker draw:name="Marker_0" svg:d="M10 0L0 30L20 30 Z" svg:viewBox="0 0 11 17"/>
+    <draw:marker draw:name="Marker_1" svg:d="M0 0L10 0L10 10L0 10 Z" svg:viewBox="0 0 5 5"/>
+    <draw:stroke-dash draw:distance="1.4173pt" draw:dots1="1" draw:dots1-length="1.4173pt" draw:dots2="1" draw:dots2-length="1.4173pt" draw:name="Dash_0"/>
+    <draw:stroke-dash draw:distance="14.1732pt" draw:dots1="1" draw:dots1-length="14.1732pt" draw:dots2="1" draw:dots2-length="14.1732pt" draw:name="Dash_1"/>
+    <draw:stroke-dash draw:distance="3.4016pt" draw:dots1="2" draw:dots1-length="1.4173pt" draw:dots2="3" draw:dots2-length="7.0866pt" draw:name="Dash_2"/>
+    <style:style style:display-name="standard~LT~Hintergrund" style:family="graphic" style:name="GraphicStyle_0" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="none" draw:stroke="none" fo:min-height="50.0000pt" fo:min-width="50.0000pt" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt"/>
+    </style:style>
+    <style:style style:display-name="standard" style:family="graphic" style:name="GraphicStyle_2" style:parent-style-name="standard">
+      <style:graphic-properties draw:fill="solid" draw:fill-color="#c0c0c0" draw:fill-gradient-name="Gradient_0" draw:fill-hatch-name="Hatch_0" draw:fill-image-name="Bitmap_0" draw:marker-end-center="false" draw:marker-end-width="8.5039pt" draw:marker-start-center="false" draw:marker-start-width="8.5039pt" draw:opacity-name="Transparency_0" draw:shadow="hidden" draw:shadow-color="#808080" draw:shadow-offset-x="8.5039pt" draw:shadow-offset-y="8.5039pt" draw:stroke="solid" fo:min-height="50.0000pt" fo:min-width="50.0000pt" fo:padding-bottom="0.0000pt" fo:padding-left="0.0000pt" fo:padding-right="0.0000pt" fo:padding-top="0.0000pt" svg:stroke-color="#000000" svg:stroke-width="0.0000pt"/>
+    </style:style>
+  </office:styles>
+  <office:automatic-styles>
+    <style:page-layout style:name="PL0">
+      <style:page-layout-properties fo:margin-bottom="56.6929pt" fo:margin-left="56.6929pt" fo:margin-right="56.6929pt" fo:margin-top="56.6929pt" fo:page-height="595.2756pt" fo:page-width="841.8898pt" style:footnote-max-height="0.0000in" style:print-orientation="portrait" style:writing-mode="lr-tb">
+        <style:footnote-sep/>
+      </style:page-layout-properties>
+    </style:page-layout>
+    <style:style style:family="drawing-page" style:name="DP1">
+      <style:drawing-page-properties draw:fill="none"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_M1" style:parent-style-name="GraphicStyle_0">
+      <style:graphic-properties draw:auto-grow-height="false"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_3" style:parent-style-name="GraphicStyle_2">
+      <style:graphic-properties draw:fill="bitmap" draw:fill-image-name="Bitmap_1"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_4" style:parent-style-name="GraphicStyle_2">
+      <style:graphic-properties draw:marker-end="Marker_1" draw:marker-end-width="11.3386pt" draw:marker-start="Marker_0" draw:marker-start-width="11.3386pt"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_5" style:parent-style-name="GraphicStyle_2">
+      <style:graphic-properties draw:fill="hatch" draw:fill-hatch-name="Hatch_1"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_6" style:parent-style-name="GraphicStyle_2">
+      <style:graphic-properties draw:fill-hatch-name="Hatch_2" draw:stroke="dash" draw:stroke-dash="Dash_0"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_7" style:parent-style-name="GraphicStyle_2">
+      <style:graphic-properties draw:fill-hatch-name="Hatch_3" draw:stroke="dash" draw:stroke-dash="Dash_1"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_8" style:parent-style-name="GraphicStyle_2">
+      <style:graphic-properties draw:fill-hatch-name="Hatch_4" draw:stroke="dash" draw:stroke-dash="Dash_2"/>
+    </style:style>
+    <style:style style:family="graphic" style:name="gr_9" style:parent-style-name="GraphicStyle_2">
+      <style:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Gradient_1"/>
+    </style:style>
+  </office:automatic-styles>
+  <office:master-styles>
+    <style:master-page draw:style-name="DP1" style:display-name="Master1" style:name="PM0" style:page-layout-name="PL0">
+      <draw:rect draw:corner-radius="0.0000in" draw:layer="layout" draw:style-name="gr_M1" fo:min-height="50.0000pt" fo:min-width="50.0000pt" svg:height="481.8898pt" svg:width="728.5039pt" svg:x="56.6929pt" svg:y="56.6929pt" text:anchor-type="page"/>
+    </style:master-page>
+  </office:master-styles>
+  <office:body>
+    <office:drawing>
+      <draw:page draw:master-page-name="PM0" draw:name="page1" draw:style-name="DP1">
+        <draw:rect draw:corner-radius="0.0000in" draw:layer="layout" draw:style-name="gr_3" fo:min-height="50.0000pt" fo:min-width="50.0000pt" svg:height="115.2850pt" svg:width="171.7512pt" svg:x="90.5953pt" svg:y="85.8898pt" text:anchor-page-number="2" text:anchor-type="page"/>
+        <draw:line draw:layer="layout" draw:style-name="gr_4" fo:min-height="50.0000pt" fo:min-width="50.0000pt" svg:x1="123.5339pt" svg:x2="462.3590pt" svg:y1="272.9480pt" svg:y2="155.3102pt" text:anchor-page-number="2" text:anchor-type="page"/>
+        <draw:rect draw:corner-radius="0.0000in" draw:layer="layout" draw:style-name="gr_5" fo:min-height="50.0000pt" fo:min-width="50.0000pt" svg:height="102.3591pt" svg:width="178.8094pt" svg:x="531.7795pt" svg:y="102.3591pt" text:anchor-page-number="2" text:anchor-type="page"/>
+        <draw:line draw:layer="layout" draw:style-name="gr_6" fo:min-height="50.0000pt" fo:min-width="50.0000pt" svg:x1="137.6504pt" svg:x2="340.0157pt" svg:y1="351.7795pt" svg:y2="289.4173pt" text:anchor-page-number="2" text:anchor-type="page"/>
+        <draw:line draw:layer="layout" draw:style-name="gr_7" fo:min-height="50.0000pt" fo:min-width="50.0000pt" svg:x1="184.7055pt" svg:x2="331.7669pt" svg:y1="425.8772pt" svg:y2="391.7764pt" text:anchor-page-number="2" text:anchor-type="page"/>
+        <draw:line draw:layer="layout" draw:style-name="gr_8" fo:min-height="50.0000pt" fo:min-width="50.0000pt" svg:x1="402.3496pt" svg:x2="556.4693pt" svg:y1="384.7181pt" svg:y2="318.8126pt" text:anchor-page-number="2" text:anchor-type="page"/>
+        <draw:rect draw:corner-radius="0.0000in" draw:layer="layout" draw:style-name="gr_9" fo:min-height="50.0000pt" fo:min-width="50.0000pt" svg:height="134.1354pt" svg:width="115.2850pt" svg:x="574.1292pt" svg:y="255.2882pt" text:anchor-page-number="2" text:anchor-type="page"/>
+      </draw:page>
+    </office:drawing>
+  </office:body>
+</office:document>
